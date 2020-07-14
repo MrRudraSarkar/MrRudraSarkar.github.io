@@ -46,10 +46,6 @@ header.startup h1 {
 }
 
 .btn-primary {
-	margin: auto;
-	position: fixed;
-	display:flex;
-	display: grid;
 	background-color: #F05F44
 	border-color: #F05F44 }
 
